@@ -1,46 +1,48 @@
-# Getting Started with Create React App
+# Tech Jobs Board
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An app/exercise of a job listing application built with **React** and styled using **Styled Components**. This project aims to provide a platform for displaying technology job listings, including various job details and filters to search for relevant positions.
 
-## Available Scripts
+- You can visit the live site here: https://tech-job-finder.vercel.app/
 
-In the project directory, you can run:
+![image](https://github.com/user-attachments/assets/568c1cfd-6d76-490f-bb7e-61f654ad79af)
 
-### `npm start`
+ 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies Used
 
-### `npm test`
+- **React**: Used to structure the app and manage its state.
+- **Styled Components**: To provide a more dynamic and modular styling approach.
+- **TypeScript**: Used to add static types and improve code quality and maintainability.
+- **React Router**: Used for managing navigation and routing within the app.
+- **CSS Variables**: Custom properties (variables) for colors and other reusable design values.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- Job listings display with details such as title, location, seniority, and salary range.
+- Responsive design that adapts to different screen sizes (desktop, tablet, and mobile).
+- Job filter to search job titles based on the user's input.
+- Modern UI styling with **Styled Components**.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To get the project running locally:
 
-### `npm run eject`
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/deborasete/tech-job-finder.git
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+2. Install dependencies:
+   ```bash
+   npm install
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3. Start the project:
+   ```bash
+   npm start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## Developed by:  
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- LinkedIn: [Debora Sete](https://www.linkedin.com/in/debora-sete/)
+- Email: [sete.debora@gmail.com](mailto:sete.debora@gmail.com)
